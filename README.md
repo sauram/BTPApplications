@@ -6,4 +6,5 @@ SilentObserverV.3 is SilentObserver[Stage-2] application which is the final comp
 
 
 Source code for the application : https://github.com/sauram/SilentObserverApplication
+
 Source code for the server : https://github.com/sauram/SilentObserverDjangoServer
