@@ -1,4 +1,4 @@
-# BTPApplications
+# SilentObserver APKs
 
 SilentObserverV.2 is SilentObserver[Stage-1] application whose main purpose was data collection to make the private Dataset. It uses Firebase Firestore as BaaS.
 
